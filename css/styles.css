@@ -36,6 +36,9 @@ ol {
 .fw600 {
   font-weight: 600;
 }
+.advantages {
+  text-align: center;
+}
 
 .advantages p {
   font-size: 19px;
@@ -75,5 +78,8 @@ td {
   .advantages img {
     float: left;
     margin-right: 5px;
+  }
+  .advantages {
+    text-align: left;
   }
 }
